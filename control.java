@@ -1,4 +1,4 @@
 class Control {
-  final PWMVictorSPX motor;
+  final PWMTalonSPX motor;
   final int b;
 }
