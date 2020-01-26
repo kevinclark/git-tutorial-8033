@@ -1,4 +1,4 @@
 class Control {
-  final VictorSPX motor;
+  final TalonSPX motor;
   final int b;
 }
