@@ -1,3 +1,3 @@
 class Control {
-  final int c;
+  final VictorSPX motor;
 }
