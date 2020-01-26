@@ -1,3 +1,3 @@
 class Control {
-  int b;
+  final int c;
 }
