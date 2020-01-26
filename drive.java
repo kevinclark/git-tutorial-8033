@@ -1,3 +1,3 @@
 class Drive {
-  int a;
+  TalonPWM talon;
 }
